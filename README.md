@@ -1,4 +1,8 @@
-# Quick Search
+# Quick thread_id = 'kim pfeiffer'
+
+After: WHERE thread_id = '@kim14587ms1981'
+
+
 
 A fast & powerful Android app that lets you search across **apps, app shortcuts, contacts, calendar events, device files, device settings, app settings, and the web**, plus access tools like **calculator, unit converter, etc**—all from a single search bar. Built with Kotlin and Jetpack Compose using Material 3 design.
 
